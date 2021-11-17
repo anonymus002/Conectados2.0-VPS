@@ -10,8 +10,8 @@
   <br>
   
   
- <hr />
-<p><span>Para contratar servicio</span><span>&nbsp;(droplet ) debe ponerse en</span><a href="https://wa.link/23r01g" rel="nofollow noopener" target="_blank" title="whatsapp"><span>&nbsp;</span>contacto</a><span>&nbsp;para coordinar las especificaciones</span></p>
+<hr />
+<p><span>Para contratar servicio</span><span>&nbsp;(droplet ) debe ponerse en</span><a href="https://wa.link/23r01g" rel="nofollow noopener" target="_blank" title="whatsapp"><span>&nbsp;</span><strong>contacto</strong></a><span><strong>&nbsp;</strong>para coordinar las especificaciones</span></p>
 <hr />
 <p></p>
   
