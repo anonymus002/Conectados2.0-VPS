@@ -11,6 +11,7 @@
   
   
   <p><span>Para contratar servicio vps (droplet ) debe ponerse en</span><a href="https://wa.link/23r01g" rel="nofollow noopener" target="_blank" title="whatsapp"><span>&nbsp;</span>contacto</a><span>&nbsp;para coordinar las especificaciones</span></p>
+  
   <br<
   <br>
   <br>
@@ -23,8 +24,9 @@
   <br>
   <br<
   
-  <p>Copyright &copy; 2021 ~Conectados 2.0~- Todos los derechos reservados.</p>
+ <p>Copyright &copy; 2021 ~Conectados 2.0~- Todos los derechos reservados.</p>
 <p>Powered By @Conectados 2.0</p>
   
-  <body/>
-   >html/>
+  <body>
+  
+   >html>
