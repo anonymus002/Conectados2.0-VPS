@@ -15,21 +15,21 @@
 <hr />
 <p></p>
   
-  <br<
   <br>
   <br>
   <br>
   <br>
   <br>
-  <br<
   <br>
   <br>
   <br>
-  <br<
+  <br>
+  <br>
+  <br>
   
  <p>Copyright &copy; 2021 ~Conectados 2.0~- Todos los derechos reservados.</p>
 <p>Powered By @Conectados 2.0</p>
   
   <body>
   
-   >html>
+   <html>
